@@ -1,0 +1,5 @@
+C:\Users\ABEL\Desktop\Orientados a servicios\P2\BancoCursoRestful\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\ABEL\Desktop\Orientados a servicios\P2\BancoCursoRestful\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABEL\Desktop\Orientados a servicios\P2\BancoCursoRestful\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\ABEL\Desktop\Orientados a servicios\P2\BancoCursoRestful\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\ABEL\Desktop\Orientados a servicios\P2\BancoCursoRestful\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
